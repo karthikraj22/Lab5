@@ -1,0 +1,14 @@
+body{
+    overflow-x:hidden;
+}
+section{
+    min-height:100vh;
+    justify-content:center;
+    display:flex;
+    align-items:center;
+}
+.title {
+    position: absolute;
+    top: 200px;
+    left: 16px;
+}
